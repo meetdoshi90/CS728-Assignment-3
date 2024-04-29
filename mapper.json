@@ -1,0 +1,32 @@
+{
+    "en": {
+        "0": "entailment",
+        "1": "neutral",
+        "2": "contradiction"
+    },
+    "fr": {
+        "0": "implication",
+        "1": "neutre",
+        "2": "contradiction"
+    },
+    "es": {
+        "0": "vinculación",
+        "1": "neutral",
+        "2": "contradicción"
+    },
+    "zh": {
+        "0": "蕴含",
+        "1": "中性的",
+        "2": "矛盾"
+    },
+    "de": {
+        "0": "Konsequenz",
+        "1": "neutral",
+        "2": "Widerspruch"
+    },
+    "ru": {
+        "0": "логическое следствие",
+        "1": "нейтральный",
+        "2": "противоречие"
+    }
+}
